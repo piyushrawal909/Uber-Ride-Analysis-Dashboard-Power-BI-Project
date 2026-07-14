@@ -9,11 +9,11 @@ The objective of this dashboard is to understand booking patterns, customer beha
 
 ## Home Dashboard
 
-![Home Dashboard](home_dashboard.png)
+![Home Dashboard](HOME-page-Dashboard.png)
 
 ## Overview Dashboard
 
-![Overview Dashboard](overview_dashboard.png)
+![Overview Dashboard](Overview-page-Dashboard.png)
 
 # 1. Introduction to the Dataset
 The dataset contains more than 150,000 Uber ride booking records and includes information related to bookings, customers, drivers, vehicle types, payments, and ride performance.
