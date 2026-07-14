@@ -5,6 +5,16 @@ This project focuses on analyzing Uber ride booking data and transforming raw da
 
 The objective of this dashboard is to understand booking patterns, customer behavior, ride performance, cancellations, and revenue trends through interactive visualizations and KPIs.
 
+# Dashboard Preview
+
+## Home Dashboard
+
+![Home Dashboard](home_dashboard.png)
+
+## Overview Dashboard
+
+![Overview Dashboard](overview_dashboard.png)
+
 # 1. Introduction to the Dataset
 The dataset contains more than 150,000 Uber ride booking records and includes information related to bookings, customers, drivers, vehicle types, payments, and ride performance.
 
