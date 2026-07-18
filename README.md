@@ -1,4 +1,4 @@
-# Uber-Ride-Analysis-Dashboard-Power-BI-Project
+# Uber-Ride-Analysis-Dashboard-Power-BI
 # Project Overview
 
 This project focuses on analyzing Uber ride booking data and transforming raw data into meaningful business insights using Power BI.
