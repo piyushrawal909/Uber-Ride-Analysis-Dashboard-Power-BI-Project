@@ -92,7 +92,7 @@ This project gave me an opportunity to apply my data analytics skills to solve p
 
 
 
-#Step 5: DAX Calculations
+# Step 5: DAX Calculations
 Created important KPIs such as:
 
 
